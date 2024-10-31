@@ -3,7 +3,7 @@
 // Collect user information
 const subjectTitle = "Data Structure and Algorithm"; // subject title
 const classSchedule = "MF 08:00 AM - 9:00 AM"; // class schedule
-const classroom = "Room 124"; // Example classroom
+const classroom = "Room 124"; //classroom
 const classInstructor = "Sir Cliff Owen Pascua"; // instructor
 const studentName = "Jennalyn Soliman"; //student name
 
