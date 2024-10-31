@@ -1,4 +1,4 @@
-// classSubjects.js 2
+// Problem 2
 
 // Collect user information
 const subjectTitle = "Data Structure and Algorithm"; // Example subject title
